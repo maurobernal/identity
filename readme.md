@@ -1,0 +1,1 @@
+https://github.com/dotnet/AspNetCore.Docs/blob/main/aspnetcore/security/authentication/identity-configuration/sample/Areas/Identity/Pages/Account/Logout.cshtml.cs
